@@ -26,7 +26,7 @@ function preparePlaceholder() {
   if (!document.getElementById("imagegallery")) return false;
   var placeholder = document.createElement("img");
   placeholder.setAttribute("id","placeholder");
-  placeholder.setAttribute("src","tu5.jpg");
+  placeholder.setAttribute("src","54a58PIC2rx_1024.jpg");
   placeholder.setAttribute("alt","my image gallery");
   var description = document.createElement("p");
   description.setAttribute("id","description");
